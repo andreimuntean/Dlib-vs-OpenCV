@@ -87,11 +87,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
-
-# Test data
-.jpg
-
-#Data folders
-WIDER_test
-wider_face_split
-eval_tools

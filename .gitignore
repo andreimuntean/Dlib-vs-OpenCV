@@ -89,5 +89,5 @@ ENV/
 .ropeproject
 
 # Test data
-data
-.jpg
+data/WIDER
+*.jpg

@@ -1,4 +1,4 @@
-Attached the mappings between attribute names and label values.
+Mappings between attribute names and label values.
 
 blur:
   clear->0
